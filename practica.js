@@ -28,6 +28,8 @@ if (indicePalabra>=0){
 //Convierte a mayúsculas todos los caracteres de tu refrán.
 miRefran = miRefran.toLocaleUpperCase ();
 
+//un poco dificil de entender pero animos
+
 console.log ("miRefran:", miRefran);
 console.log ("longitudRefran:", longitudRefran);
 console.log ("novenaLetra:", novenaLetra);
